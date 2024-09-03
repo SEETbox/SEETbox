@@ -1,4 +1,4 @@
-## Hi there 👋
+## SEETbox-SUHI-Effect-Evaluation-Toolbox
 
 <!--
 **SEETbox/SEETbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
